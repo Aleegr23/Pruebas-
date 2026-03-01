@@ -1,0 +1,9 @@
+polizas <- data.frame(
+  id = c(1, 2, 3),
+  tipo = c("vida", "auto", "salud"),
+  costo = c(1500, 800, 400),
+  activo = c(TRUE, TRUE, FALSE)    
+)
+
+polizas
+
