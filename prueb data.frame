@@ -1,4 +1,4 @@
-polizas <- data.frame(
+polizas <- data.frame( 
   id = c(1, 2, 3),
   tipo = c("vida", "auto", "salud"),
   costo = c(1500, 800, 400),
@@ -6,4 +6,6 @@ polizas <- data.frame(
 )
 
 polizas
+
+
 
