@@ -7,5 +7,9 @@ polizas <- data.frame(
 
 polizas
 
+polizas$costo
 
+mean(polizas$costo)
 
+filter(costo > 500) 
+polizas [polizas$costo > 500, ]
